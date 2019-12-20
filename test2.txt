@@ -11,3 +11,10 @@ this is a test function
 
 add func2
 this is a test function
+
+
+add func3
+this is a test function
+
+add func4
+this is a test function
