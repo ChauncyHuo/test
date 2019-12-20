@@ -1,0 +1,13 @@
+test1
+test@
+<<<<<<< HEAD
+111
+=======
+test from GitHub
+>>>>>>> 300046792dac5c7dbba2c113e7b00760f2848477
+
+add func1
+this is a test function
+
+add func2
+this is a test function
