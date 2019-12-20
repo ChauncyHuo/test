@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 addfunc1
 addfunc2
+=======
+addfunc1
+>>>>>>> 625f56a... test3
