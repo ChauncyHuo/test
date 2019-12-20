@@ -18,4 +18,14 @@ this is a test function
 
 add func4
 this is a test function
-sdfjdksfksdjahfdkjshfkjsdkjsdhfkjds
+
+add func5
+this is a test function
+
+add func6
+this is a test function
+
+add func7
+this is a test function
+add func8
+this is a test function
