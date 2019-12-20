@@ -45,6 +45,16 @@ class WriteClass():
         self.__cur.execute(sql_update,)
         self.__conn.commit()
 
+    #add func1
+    def func1(self):
+        print(1)
+        pass
+    #add func2
+    def func2(self):
+        print(2)
+        pass
+
+
 class Sql_Class():
     def __init__(self,host_num):
         if host_num == 6:
