@@ -19,3 +19,4 @@ this is a test function
 add func4
 this is a test function
 addtest1
+addtest2
